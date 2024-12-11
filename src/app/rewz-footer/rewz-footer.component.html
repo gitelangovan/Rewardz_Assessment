@@ -1,8 +1,11 @@
-<div class="text-center p-1">
-  © <span id="currentYear"></span> - CAPE Electric Private Limited. All rights reserved
-</div>
-
-<!-- Getting present year for footer -->
-<script>
-  document.getElementById("currentYear").innerHTML = new Date().getFullYear();
-</script>
+<footer class="footer">
+  <div class="footer-content">
+    <img src="./assets/images/rewardFooter.png" alt="Rewardz" class="footer-logo">
+    <p style="margin-top: auto;">© {{currentYearElement}} - Rewardz Private Limited. All rights reserved</p>
+    <div class="company-details">
+      <p><strong>Rewardz Private Lmited</strong></p>
+      <p>123 Business St., Singapore</p>
+      <p>Phone: +65 1234-5678</p>
+    </div>
+  </div>
+</footer>

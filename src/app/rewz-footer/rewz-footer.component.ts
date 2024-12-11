@@ -8,5 +8,12 @@ import { Component } from '@angular/core';
   styleUrl: './rewz-footer.component.scss'
 })
 export class RewzFooterComponent {
-  
+
+  currentYearElement: any;
+
+  ngOnInit() {
+    // getting current year
+    this.currentYearElement = new Date().getFullYear().toString();
+  }
+
 }

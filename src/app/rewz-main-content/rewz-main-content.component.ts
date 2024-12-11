@@ -3,8 +3,6 @@ import { CompanyDetailsService } from '../Service/company-details.service';
 import { NgxPaginationModule } from 'ngx-pagination';
 import { RouterModule } from '@angular/router';
 import { CommonModule } from '@angular/common';
-import { RewzHeaderComponent } from '../rewz-header/rewz-header.component';
-import { RewzFooterComponent } from '../rewz-footer/rewz-footer.component';
 
 @Component({
   selector: 'app-rewz-main-content',
@@ -24,8 +22,7 @@ export class RewzMainContentComponent {
 
   constructor(private fetchCall: CompanyDetailsService) { }
 
-  ngOnInit(): void {
-    debugger
+  ngOnInit() {
     this.fetchCall.fetchDatasets().subscribe({
       next: (value) => this.jsonData = value,
       error: (error) => this.resJson = error,
@@ -47,8 +44,8 @@ export class RewzMainContentComponent {
     }
   }
 
+  // Filter Category
   filterCategory(event: String) {
-    debugger
     var localArr = [];
     this.incomingCategory = event;
     switch (this.incomingCategory) {

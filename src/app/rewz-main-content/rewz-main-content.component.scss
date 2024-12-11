@@ -26,3 +26,31 @@
     top: 10rem;
     right: 85px;
 }
+
+.filters-container {
+    display: flex;
+    justify-content: space-between; /* Adjusted for spacing */
+    align-items: center;
+    margin-bottom: 10px;
+    flex-wrap: wrap; /* Ensures elements wrap on smaller screens */
+  }
+  
+  /* Adjusting the Sort button container */
+  .sort-button {
+    position: relative;
+    margin-top: 5px; /* Added some spacing above for clarity */
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .filters-container {
+      flex-direction: column; /* Stack elements vertically on smaller screens */
+      align-items: center; /* Center the content */
+      text-align: center;
+    }
+  
+    .sort-button {
+      left: 0; /* Remove left offset */
+      margin-top: 10px; /* Add some spacing */
+    }
+  }
