@@ -1,0 +1,402 @@
+[
+    {
+        "pk": 1,
+        "name": "Decathlon",
+        "points": 150,
+        "display_img_url": "./assets/images/decathlon.jpg",
+        "quantity": 14,
+        "valid_until": "2024-12-31",
+        "low_quantity": 10,
+        "category": "eVoucher"
+    },
+    {
+        "pk": 2,
+        "name": "Cafe Coffee Day",
+        "points": 1500,
+        "display_img_url": "https://static.toiimg.com/thumb/msid-70470140,imgsize-129794,width-400,resizemode-4/70470140.jpg",
+        "quantity": 2,
+        "valid_until": "2025-01-31",
+        "low_quantity": 20,
+        "category": "food"
+    },
+    {
+        "pk": 3,
+        "name": "Britannia Industries",
+        "points": 500,
+        "display_img_url": "https://interbrand.com/wp-content/uploads/2023/05/Britannia_images_Hero_600x400.jpg",
+        "quantity": 10,
+        "valid_until": "2024-12-31",
+        "low_quantity": 21,
+        "category": "food"
+    },
+    {
+        "pk": 4,
+        "name": "Dabur",
+        "points": 300,
+        "display_img_url": "./assets/images/decathlon.jpg",
+        "quantity": 0,
+        "valid_until": "2024-12-31",
+        "low_quantity": 50,
+        "category": "eVoucher"
+    },
+    {
+        "pk": 5,
+        "name": "Godrej Limited",
+        "points": 150,
+        "display_img_url": "./assets/images/decathlon.jpg",
+        "quantity": 16,
+        "valid_until": "2024-12-31",
+        "low_quantity": 10,
+        "category": "products"
+    },
+    {
+        "pk": 6,
+        "name": "Starbucks",
+        "points": 50,
+        "display_img_url": "",
+        "quantity": 1,
+        "valid_until": "2024-12-31",
+        "low_quantity": 3,
+        "category": "food"
+    },
+    {
+        "pk": 7,
+        "name": "ITC",
+        "points": 400,
+        "display_img_url": "",
+        "quantity": 11,
+        "valid_until": "2024-12-31",
+        "low_quantity": 3,
+        "category": "eVoucher"
+    },
+    {
+        "pk": 8,
+        "name": "Hindustan Unilever",
+        "points": 650,
+        "display_img_url": "",
+        "quantity": 25,
+        "valid_until": "2024-12-31",
+        "low_quantity": 6,
+        "category": "eVoucher"
+    },
+    {
+        "pk": 9,
+        "name": "Marico Limited",
+        "points": 636,
+        "display_img_url": "",
+        "quantity": 22,
+        "valid_until": "2024-12-31",
+        "low_quantity": 16,
+        "category": "products"
+    },
+    {
+        "pk": 10,
+        "name": "Nestlé India",
+        "points": 150,
+        "display_img_url": "",
+        "quantity": 0,
+        "valid_until": "2024-12-31",
+        "low_quantity": 10,
+        "category": "food"
+    },
+    {
+        "pk": 11,
+        "name": "Parle Agro",
+        "points": 300,
+        "display_img_url": "",
+        "quantity": 42,
+        "valid_until": "2024-12-31",
+        "low_quantity": 5,
+        "category": "products"
+    },
+    {
+        "pk": 12,
+        "name": "Varun Beverages",
+        "points": 400,
+        "display_img_url": "",
+        "quantity": 0,
+        "valid_until": "2024-12-31",
+        "low_quantity": 12,
+        "category": "food"
+    },
+    {
+        "pk": 13,
+        "name": "Colgate Palmolive (India) Ltd",
+        "points": 700,
+        "display_img_url": "",
+        "quantity": 56,
+        "valid_until": "2024-12-31",
+        "low_quantity": 8,
+        "category": "eVoucher"
+    },
+    {
+        "pk": 14,
+        "name": "Hatsun Agro Products",
+        "points": 550,
+        "display_img_url": "",
+        "quantity": 16,
+        "valid_until": "2024-12-31",
+        "low_quantity": 13,
+        "category": "food"
+    },
+    {
+        "pk": 15,
+        "name": "Nestlé",
+        "points": 300,
+        "display_img_url": "",
+        "quantity": 15,
+        "valid_until": "2024-12-31",
+        "low_quantity": 10,
+        "category": "food"
+    },
+    {
+        "pk": 16,
+        "name": "Patanjali Ayurved",
+        "points": 150,
+        "display_img_url": "",
+        "quantity": 14,
+        "valid_until": "2024-12-31",
+        "low_quantity": 10,
+        "category": "eVoucher"
+    },
+    {
+        "pk": 17,
+        "name": "Heritage Foods",
+        "points": 550,
+        "display_img_url": "",
+        "quantity": 7,
+        "valid_until": "2024-12-31",
+        "low_quantity": 6,
+        "category": "food"
+    },
+    {
+        "pk": 18,
+        "name": "Vadilal",
+        "points": 2000,
+        "display_img_url": "",
+        "quantity": 10,
+        "valid_until": "2024-12-31",
+        "low_quantity": 2,
+        "category": "eVoucher"
+    },
+    {
+        "pk": 19,
+        "name": "Amul",
+        "points": 3300,
+        "display_img_url": "",
+        "quantity": 3,
+        "valid_until": "2024-12-31",
+        "low_quantity": 5,
+        "category": "food"
+    },
+    {
+        "pk": 20,
+        "name": "LT Foods",
+        "points": 360,
+        "display_img_url": "",
+        "quantity": 14,
+        "valid_until": "2024-12-31",
+        "low_quantity": 10,
+        "category": "products"
+    },
+    {
+        "pk": 21,
+        "name": "Procter & Gamble",
+        "points": 1900,
+        "display_img_url": "",
+        "quantity": 2,
+        "valid_until": "2024-12-31",
+        "low_quantity": 6,
+        "category": "products"
+    },
+    {
+        "pk": 22,
+        "name": "Hindustan Foods",
+        "points": 1400,
+        "display_img_url": "",
+        "quantity": 4,
+        "valid_until": "2024-12-31",
+        "low_quantity": 6,
+        "category": "food"
+    },
+    {
+        "pk": 23,
+        "name": "Mother Dairy",
+        "points": 1100,
+        "display_img_url": "",
+        "quantity": 2,
+        "valid_until": "2025-01-31",
+        "low_quantity": 5,
+        "category": "food"
+    },
+    {
+        "pk": 24,
+        "name": "Pepsico",
+        "points": 865,
+        "display_img_url": "",
+        "quantity": 11,
+        "valid_until": "2024-12-31",
+        "low_quantity": 13,
+        "category": "food"
+    },
+    {
+        "pk": 25,
+        "name": "Procter & Gamble Co",
+        "points": 2500,
+        "display_img_url": "",
+        "quantity": 4,
+        "valid_until": "2024-12-31",
+        "low_quantity": 9,
+        "category": "products"
+    },
+    {
+        "pk": 26,
+        "name": "Sapphire Foods India",
+        "points": 2000,
+        "display_img_url": "",
+        "quantity": 3,
+        "valid_until": "2025-02-05",
+        "low_quantity": 1,
+        "category": "food"
+    },
+    {
+        "pk": 27,
+        "name": "Parag Milk Foods Ltd.",
+        "points": 999,
+        "display_img_url": "",
+        "quantity": 25,
+        "valid_until": "2025-03-07",
+        "low_quantity": 19,
+        "category": "food"
+    },
+    {
+        "pk": 28,
+        "name": "Sanstar Ltd.",
+        "points": 1800,
+        "display_img_url": "",
+        "quantity": 4,
+        "valid_until": "2025-01-31",
+        "low_quantity": 7,
+        "category": "products"
+    },
+    {
+        "pk": 29,
+        "name": "Coastal Corporation Ltd.",
+        "points": 111,
+        "display_img_url": "",
+        "quantity": 25,
+        "valid_until": "2025-01-31",
+        "low_quantity": 20,
+        "category": "products"
+    },
+    {
+        "pk": 30,
+        "name": "Sunil Agro Foods Ltd",
+        "points": 2365,
+        "display_img_url": "",
+        "quantity": 2,
+        "valid_until": "2025-03-03",
+        "low_quantity": 6,
+        "category": "food"
+    },
+    {
+        "pk": 31,
+        "name": "KMG Milk Food Ltd",
+        "points": 1265,
+        "display_img_url": "",
+        "quantity": 19,
+        "valid_until": "2025-10-31",
+        "low_quantity": 15,
+        "category": "food"
+    },
+    {
+        "pk": 32,
+        "name": "Havmor Ice Cream",
+        "points": 2800,
+        "display_img_url": "",
+        "quantity": 1,
+        "valid_until": "2025-04-04",
+        "low_quantity": 1,
+        "category": "food"
+    },
+    {
+        "pk": 33,
+        "name": "Hello Curry",
+        "points": 1500,
+        "display_img_url": "",
+        "quantity": 5,
+        "valid_until": "2025-01-12",
+        "low_quantity": 5,
+        "category": "food"
+    },
+    {
+        "pk": 34,
+        "name": "Idhayam (brand)",
+        "points": 1900,
+        "display_img_url": "",
+        "quantity": 3,
+        "valid_until": "2025-01-11",
+        "low_quantity": 6,
+        "category": "food"
+    },
+    {
+        "pk": 35,
+        "name": "KS Oils",
+        "points": 1900,
+        "display_img_url": "",
+        "quantity": 3,
+        "valid_until": "2025-01-11",
+        "low_quantity": 6,
+        "category": "food"
+    },
+    {
+        "pk": 36,
+        "name": "Suguna Foods",
+        "points": 1900,
+        "display_img_url": "",
+        "quantity": 3,
+        "valid_until": "2025-01-11",
+        "low_quantity": 6,
+        "category": "food"
+    },
+    {
+        "pk": 37,
+        "name": "ADF Foods",
+        "points": 700,
+        "display_img_url": "",
+        "quantity": 17,
+        "valid_until": "2025-05-05",
+        "low_quantity": 17,
+        "category": "products"
+    },
+    {
+        "pk": 38,
+        "name": "Umang Dairies",
+        "points": 700,
+        "display_img_url": "",
+        "quantity": 17,
+        "valid_until": "2025-05-05",
+        "low_quantity": 17,
+        "category": "eVoucher"
+    },
+    {
+        "pk": 39,
+        "name": "Aveer Foods",
+        "points": 700,
+        "display_img_url": "",
+        "quantity": 17,
+        "valid_until": "2025-05-05",
+        "low_quantity": 17,
+        "category": "food"
+    },
+    {
+        "pk": 40,
+        "name": "Zepto Reward For Purchase Price",
+        "points": 1500,
+        "display_img_url": "",
+        "quantity": 2,
+        "valid_until": "2025-07-07",
+        "low_quantity": 5,
+        "category": "highDem"
+    }
+]
